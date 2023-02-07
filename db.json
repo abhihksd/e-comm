@@ -100,5 +100,25 @@
       "image": "https://m.media-amazon.com/images/I/81vDZyJQ-4L._SY879_.jpg",
       "id": 5
     }
+  ],
+  "user": [
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "abhishal",
+      "email": "abhishal@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "id": 3
+    }
   ]
 }

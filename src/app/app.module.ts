@@ -16,6 +16,7 @@ import { SellerUpdateProductComponent } from './seller-update-product/seller-upd
 import { SearchComponent } from './search/search.component';
 import { FooterComponent } from './footer/footer.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
+import { UserAuthComponent } from './user-auth/user-auth.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
     SearchComponent,
     FooterComponent,
     ProductDetailsComponent,
+    UserAuthComponent,
   ],
   imports: [
     BrowserModule,

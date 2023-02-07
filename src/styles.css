@@ -45,3 +45,9 @@ body{
     background-color: black;
     border: 5px;    
 }
+.invalid-input{
+    color: red;
+    text-align: right;
+    font-size: 12px;
+    margin-top: -20px;
+}

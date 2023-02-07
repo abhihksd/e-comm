@@ -12,7 +12,11 @@ h1 a{
     margin: 0%;
     font-size: 40px;
 }
-
+.nav ul a{
+    text-decoration: none;
+    color: blueviolet;
+    cursor: pointer;
+}
 .nav ul{
     display: inline-flex;
     list-style-type: none;
