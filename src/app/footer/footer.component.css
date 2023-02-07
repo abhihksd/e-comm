@@ -1,0 +1,29 @@
+footer{
+
+    position: fixed ;
+    left: 0;
+    bottom:0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    /* text-align: center; */
+}
+/* footer .CopyRight {
+       text-align: center; 
+      display: flex ;
+      padding-right: 10px;
+} */
+.CopyRight ul{
+    list-style: none;
+    margin:0;
+    padding:50;
+    display:flex;
+    text-align: center;
+}
+.CopyRight li{ 
+    padding-inline: 10% 5%;
+
+}
+.CopyRight p{
+    text-align: center;
+}
