@@ -120,5 +120,16 @@
       "password": "1234",
       "id": 3
     }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "abhi@gmail.com",
+      "contact": "1234",
+      "address": "xyz",
+      "totalPrice": 519099,
+      "userId": 1,
+      "id": 1
+    }
   ]
 }
